@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# World Atlas Website
+Built a dynamic, responsive multi-page web app using React 19. Implemented React Router DOM for routing, used Axios to fetch real-time API data, and added features like search, filter, and sort. Included interactive user forms and followed best practices for performance and usability. Focused on delivering a clean UI and real-world functionality.
